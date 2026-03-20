@@ -1,0 +1,2 @@
+<?php
+// Teacher attendance management

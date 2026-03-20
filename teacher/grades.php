@@ -1,0 +1,2 @@
+<?php
+// Teacher grades management
